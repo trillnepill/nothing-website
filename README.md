@@ -1,2 +1,2 @@
 # nothing-website
-nothing
+99% - govnocod, other - nothing.
